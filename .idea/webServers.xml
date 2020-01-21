@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5cc94bde-4561-4600-96a5-6ec409656853" name="gmt-cg2.gaeamobile-inc.net" url="http://gmt-cg2.gaeamobile-inc.net">
+        <fileTransfer host="gmt-cg2.gaeamobile-inc.net" port="22" rootFolder="/data/www/tools/tools/ci" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
